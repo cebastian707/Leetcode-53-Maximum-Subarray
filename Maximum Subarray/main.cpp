@@ -17,7 +17,7 @@ int maxSubArray(std::vector<int>& nums) {
 	}
 	
 	
-	//varaibles and set the idx  to the first element in the vector
+	//varaibles and set the idx  zero
 	int idx = 0;
 	int max = INT_MIN;
 	int count = 0;
